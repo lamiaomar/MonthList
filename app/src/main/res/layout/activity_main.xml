@@ -12,7 +12,6 @@
         android:layout_height="match_parent"
         android:scrollbarSize="80dp"
         android:scrollbars="vertical"
-        android:padding="150dp"
         app:layoutManager="LinearLayoutManager" />
 
 </FrameLayout>
